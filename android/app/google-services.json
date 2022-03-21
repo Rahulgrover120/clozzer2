@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "656548803634",
+    "project_id": "clozzr-b9a52",
+    "storage_bucket": "clozzr-b9a52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656548803634:android:538738a137a6d7c6d3f82b",
+        "android_client_info": {
+          "package_name": "com.remotcare.clozzr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656548803634-2pkun45613f1nac44gj9ncjfvsl9t1fa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.remotcare.clozzr",
+            "certificate_hash": "d93edf0f4692cf2f50ebce11848ce650ec8b92a9"
+          }
+        },
+        {
+          "client_id": "656548803634-doqnu5u8tvsm9jf2g8f5f2r84rrubtau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN8FpvyNWPQ-QHyIIuHenY2L9SBezzXVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656548803634-doqnu5u8tvsm9jf2g8f5f2r84rrubtau.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "656548803634-bas31v3umd2m4k2jc1f9o7q92ls5ubf2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.remotcare.clozze"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656548803634:android:fff630209dec40c4d3f82b",
+        "android_client_info": {
+          "package_name": "com.remotcare.clozzr.clozzr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656548803634-rijbjf2occ71v1519vmkje1t52fojhhi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.remotcare.clozzr.clozzr",
+            "certificate_hash": "6cd0bf71f6e8cea5dd64b41db42a37c92f74b3aa"
+          }
+        },
+        {
+          "client_id": "656548803634-doqnu5u8tvsm9jf2g8f5f2r84rrubtau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN8FpvyNWPQ-QHyIIuHenY2L9SBezzXVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656548803634-doqnu5u8tvsm9jf2g8f5f2r84rrubtau.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "656548803634-bas31v3umd2m4k2jc1f9o7q92ls5ubf2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.remotcare.clozze"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
